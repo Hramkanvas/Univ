@@ -1,0 +1,10 @@
+char a5 = -1;
+char a1 = "*";
+double a2 = .25;
+String a4 = '!';
+byte a9 = 127;
+        double a3 = 1e+5;
+boolean a7 = True;
+float a8 = 0,15;
+char a10 = 65536;
+String a6 = "String12345";

@@ -1,0 +1,58 @@
+<companies>
+<company>
+	<name>name8</name>
+	<shortTitle>shortTitle8</shortTitle>
+	<dateUpdate>dateUpdate8</dateUpdate>
+	<address>address8</address>
+	<dateFoundation>Thu Jan 26 00:03:00 MSK 1905</dateFoundation>
+	<countEmployees>561</countEmployees>
+	<auditor>auditor8</auditor>
+	<phone>phone8</phone>
+	<email>email8</email>
+	<branch>branch</branch>
+	<activity>activity2</activity>
+	<link>link8</link>
+</company>
+<company>
+	<name>name13</name>
+	<shortTitle>shortTitle13</shortTitle>
+	<dateUpdate>dateUpdate13</dateUpdate>
+	<address>address13</address>
+	<dateFoundation>Thu Jan 07 00:09:00 MSK 1904</dateFoundation>
+	<countEmployees>56</countEmployees>
+	<auditor>auditor13</auditor>
+	<phone>phone13</phone>
+	<email>email13</email>
+	<branch>branch</branch>
+	<activity>activity2</activity>
+	<link>link13</link>
+</company>
+<company>
+	<name>name15</name>
+	<shortTitle>shortTitle15</shortTitle>
+	<dateUpdate>dateUpdate15</dateUpdate>
+	<address>address15</address>
+	<dateFoundation>Thu Jan 07 00:09:00 MSK 1904</dateFoundation>
+	<countEmployees>56</countEmployees>
+	<auditor>auditor15</auditor>
+	<phone>phone15</phone>
+	<email>email15</email>
+	<branch>branch</branch>
+	<activity>activity2</activity>
+	<link>link15</link>
+</company>
+<company>
+	<name>name18</name>
+	<shortTitle>shortTitle18</shortTitle>
+	<dateUpdate>dateUpdate18</dateUpdate>
+	<address>address18</address>
+	<dateFoundation>Thu Jan 26 00:03:00 MSK 1905</dateFoundation>
+	<countEmployees>456</countEmployees>
+	<auditor>auditor18</auditor>
+	<phone>phone18</phone>
+	<email>email18</email>
+	<branch>branch</branch>
+	<activity>activity2</activity>
+	<link>link18</link>
+</company>
+</companies>

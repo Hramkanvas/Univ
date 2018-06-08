@@ -1,0 +1,3 @@
+Click the button to get your coordinates;Try It;var x =; document.getElementById("demo");function getLocation();
+Geolocation is not supported by this browser;
+dfsdfsdf;

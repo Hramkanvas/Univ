@@ -1,0 +1,3 @@
+SELECT * FROM dataBase WHERE shortTitle = shortTitle9
+SELECT * FROM dataBase WHERE quantityOfEmployees Between 20 and 100
+SELECT * FROM dataBase WHERE activity = activity2

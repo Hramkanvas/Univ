@@ -1,0 +1,5 @@
+﻿  HelloWorld.cpp
+c:\users\kastu\documents\visual studio 2017\projects\lp\lp\helloworld.cpp(37): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+c:\users\kastu\documents\visual studio 2017\projects\lp\lp\helloworld.cpp(42): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+  LP.vcxproj -> c:\users\kastu\documents\visual studio 2017\Projects\LP\Debug\LP.exe
+  LP.vcxproj -> c:\users\kastu\documents\visual studio 2017\Projects\LP\Debug\LP.pdb (Partial PDB)

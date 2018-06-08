@@ -1,0 +1,10 @@
+char a1 = "*"; - no
+double a2 = .25; - yes
+        double a3 = 1e+5; - yes
+String a4 = '!'; - no
+char a5 = -1; - no
+String a6 = "String12345"; - yes
+boolean a7 = True; - yes
+float a8 = 0,15; - no
+byte a9 = 127; - yes
+char a10 = 65536; - no

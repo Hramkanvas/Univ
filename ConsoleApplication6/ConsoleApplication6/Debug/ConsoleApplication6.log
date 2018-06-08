@@ -1,0 +1,4 @@
+﻿  ConsoleApplication6.cpp
+c:\users\kastu\documents\visual studio 2017\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication6.vcxproj -> c:\users\kastu\documents\visual studio 2017\Projects\ConsoleApplication6\Debug\ConsoleApplication6.exe
+  ConsoleApplication6.vcxproj -> c:\users\kastu\documents\visual studio 2017\Projects\ConsoleApplication6\Debug\ConsoleApplication6.pdb (Partial PDB)

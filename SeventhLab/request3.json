@@ -1,0 +1,59 @@
+
+{"companies":[
+	{
+		"name":"name8",
+		"shortTitle":"shortTitle8",
+		"dateUpdate":"dateUpdate8",
+		"address":"address8",
+		"dateFoundation":"Thu Jan 26 00:03:00 MSK 1905",
+		"countEmployees":561,
+		"auditor":"auditor8",
+		"phone":"phone8",
+		"email":"email8",
+		"branch":"branch",
+		"activity":"activity2",
+		"link":"link8"
+	},
+	{
+		"name":"name13",
+		"shortTitle":"shortTitle13",
+		"dateUpdate":"dateUpdate13",
+		"address":"address13",
+		"dateFoundation":"Thu Jan 07 00:09:00 MSK 1904",
+		"countEmployees":56,
+		"auditor":"auditor13",
+		"phone":"phone13",
+		"email":"email13",
+		"branch":"branch",
+		"activity":"activity2",
+		"link":"link13"
+	},
+	{
+		"name":"name15",
+		"shortTitle":"shortTitle15",
+		"dateUpdate":"dateUpdate15",
+		"address":"address15",
+		"dateFoundation":"Thu Jan 07 00:09:00 MSK 1904",
+		"countEmployees":56,
+		"auditor":"auditor15",
+		"phone":"phone15",
+		"email":"email15",
+		"branch":"branch",
+		"activity":"activity2",
+		"link":"link15"
+	},
+	{
+		"name":"name18",
+		"shortTitle":"shortTitle18",
+		"dateUpdate":"dateUpdate18",
+		"address":"address18",
+		"dateFoundation":"Thu Jan 26 00:03:00 MSK 1905",
+		"countEmployees":456,
+		"auditor":"auditor18",
+		"phone":"phone18",
+		"email":"email18",
+		"branch":"branch",
+		"activity":"activity2",
+		"link":"link18"
+	}
+]}

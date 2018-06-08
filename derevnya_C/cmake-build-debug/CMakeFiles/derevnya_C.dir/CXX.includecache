@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kastu/Desktop/cs/Algorithms/Problem_sets/derevnya_C/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+algorithm
+-
+ctime
+-
+cmath
+-
+

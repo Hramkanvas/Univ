@@ -1,0 +1,4 @@
+﻿  LUDec.cpp
+c:\users\kastu\documents\visual studio 2017\projects\ludec\ludec\ludec.cpp(112): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LUDec.vcxproj -> C:\Users\kastu\documents\visual studio 2017\Projects\LUDec\Debug\LUDec.exe
+  LUDec.vcxproj -> C:\Users\kastu\documents\visual studio 2017\Projects\LUDec\Debug\LUDec.pdb (Partial PDB)

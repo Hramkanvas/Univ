@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+c:\users\kastu\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\kastu\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\kastu\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\kastu\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\kastu\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\kastu\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(51): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> c:\users\kastu\documents\visual studio 2017\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> c:\users\kastu\documents\visual studio 2017\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)

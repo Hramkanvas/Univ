@@ -1,0 +1,66 @@
+C:\Games
+Total War - Shogun 2 - Gold Edition
+C:\
+$RECYCLE.BIN
+$SysReset
+$Windows.~WS
+asc_rdflag
+BOOTNXT
+cygwin64
+Desktop
+Documents and Settings
+eclipse
+ESD
+Games
+hiberfil.sys
+hp
+Intel
+MinGW
+OA3.Trace.xml
+OA3ChkEdt.log
+pagefile.sys
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Python27
+Recovery
+sp76302.exe
+swapfile.sys
+SWSetup
+SymCache
+System Volume Information
+SYSTEM.SAV
+Users
+Windows
+Windows.old
+[R.G. Mechanics] FTL - Faster Than Light
+C:\Games\Total War - Shogun 2 - Gold Edition
+awesomium.dll
+awesomium.log
+AwesomiumProcess.exe
+awesomium_cache
+benchmarks
+binkw32.dll
+data
+icudt42.dll
+launcher
+libeay32.dll
+locales
+miles
+ModManager.exe
+mss32.dll
+QtCore4.dll
+QtGui4.dll
+Shogun2.dll
+Shogun2.exe
+ssleay32.dll
+steam_api.dll
+steam_api.ini
+steam_api_ext.dll
+tbb.dll
+tbbmalloc.dll
+Total War Shogun 2 V1.1.0  Trainer +8 Final MrAntiFun.EXE
+unins000.dat
+unins000.exe
+_Redist

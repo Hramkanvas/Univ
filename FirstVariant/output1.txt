@@ -1,0 +1,5 @@
+cd    C:\Games\Total War - Shogun 2 - Gold Edition
+cd..
+dir
+dir
+dir

@@ -1,0 +1,6 @@
+﻿  ConsoleApplication15.cpp
+c:\users\kastu\documents\visual studio 2017\projects\consoleapplication15\consoleapplication15\consoleapplication15.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\kastu\documents\visual studio 2017\projects\consoleapplication15\consoleapplication15\consoleapplication15.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\kastu\documents\visual studio 2017\projects\consoleapplication15\consoleapplication15\consoleapplication15.cpp(18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication15.vcxproj -> c:\users\kastu\documents\visual studio 2017\Projects\ConsoleApplication15\Debug\ConsoleApplication15.exe
+  ConsoleApplication15.vcxproj -> c:\users\kastu\documents\visual studio 2017\Projects\ConsoleApplication15\Debug\ConsoleApplication15.pdb (Partial PDB)

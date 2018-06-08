@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>
+</p>
+<button onclick="getLocation()">
+</button>
+<p id="demo">
+</p>
+<script>
+</script>
+</body>
+</html>

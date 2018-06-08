@@ -1,0 +1,16 @@
+<companies>
+<company>
+	<name>name9</name>
+	<shortTitle>shortTitle9</shortTitle>
+	<dateUpdate>dateUpdate9</dateUpdate>
+	<address>address9</address>
+	<dateFoundation>Sat Jan 16 00:12:00 MSK 1904</dateFoundation>
+	<countEmployees>56</countEmployees>
+	<auditor>auditor9</auditor>
+	<phone>phone9</phone>
+	<email>email9</email>
+	<branch>branch2</branch>
+	<activity>activity</activity>
+	<link>link9</link>
+</company>
+</companies>

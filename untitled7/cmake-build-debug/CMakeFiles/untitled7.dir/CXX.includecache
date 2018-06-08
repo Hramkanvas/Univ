@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kastu/Desktop/cs/Algorithms/Problem_sets/untitled7/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+

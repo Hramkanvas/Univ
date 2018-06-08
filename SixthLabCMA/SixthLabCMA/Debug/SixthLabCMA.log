@@ -1,0 +1,24 @@
+﻿  Skipping... (no relevant changes detected)
+  stdafx.cpp
+  SixthLabCMA.cpp
+c:\users\kastu\documents\visual studio 2017\projects\sixthlabcma\sixthlabcma\sixthlabcma.cpp(1): error C2855: command-line option '/source-charset' inconsistent with precompiled header
+c:\users\kastu\documents\visual studio 2017\projects\sixthlabcma\sixthlabcma\sixthlabcma.cpp(1): error C2855: command-line option '/execution-charset' inconsistent with precompiled header
+c:\users\kastu\documents\visual studio 2017\projects\sixthlabcma\sixthlabcma\sixthlabcma.cpp(171): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kastu\documents\visual studio 2017\projects\sixthlabcma\sixthlabcma\sixthlabcma.cpp(184): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kastu\documents\visual studio 2017\projects\sixthlabcma\sixthlabcma\sixthlabcma.cpp(208): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kastu\documents\visual studio 2017\projects\sixthlabcma\sixthlabcma\sixthlabcma.cpp(241): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\kastu\documents\visual studio 2017\projects\sixthlabcma\sixthlabcma\sixthlabcma.cpp(344): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kastu\documents\visual studio 2017\projects\sixthlabcma\sixthlabcma\sixthlabcma.cpp(357): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kastu\documents\visual studio 2017\projects\sixthlabcma\sixthlabcma\sixthlabcma.cpp(449): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'clock_t'
+c:\users\kastu\documents\visual studio 2017\projects\sixthlabcma\sixthlabcma\sixthlabcma.cpp(488): warning C4018: '<': signed/unsigned mismatch
+c:\users\kastu\documents\visual studio 2017\projects\sixthlabcma\sixthlabcma\sixthlabcma.cpp(497): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\kastu\documents\visual studio 2017\projects\sixthlabcma\sixthlabcma\sixthlabcma.cpp(498): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\kastu\documents\visual studio 2017\projects\sixthlabcma\sixthlabcma\sixthlabcma.cpp(499): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\kastu\documents\visual studio 2017\projects\sixthlabcma\sixthlabcma\sixthlabcma.cpp(610): warning C4018: '<': signed/unsigned mismatch
+c:\users\kastu\documents\visual studio 2017\projects\sixthlabcma\sixthlabcma\sixthlabcma.cpp(734): warning C4018: '<': signed/unsigned mismatch
+c:\users\kastu\documents\visual studio 2017\projects\sixthlabcma\sixthlabcma\sixthlabcma.cpp(739): warning C4018: '<': signed/unsigned mismatch
+c:\users\kastu\documents\visual studio 2017\projects\sixthlabcma\sixthlabcma\sixthlabcma.cpp(740): warning C4018: '<': signed/unsigned mismatch
+c:\users\kastu\documents\visual studio 2017\projects\sixthlabcma\sixthlabcma\sixthlabcma.cpp(753): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\kastu\documents\visual studio 2017\projects\sixthlabcma\sixthlabcma\sixthlabcma.cpp(754): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\kastu\documents\visual studio 2017\projects\sixthlabcma\sixthlabcma\sixthlabcma.cpp(758): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\kastu\documents\visual studio 2017\projects\sixthlabcma\sixthlabcma\sixthlabcma.cpp(1027): warning C4018: '<': signed/unsigned mismatch

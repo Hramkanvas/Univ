@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kastu/Desktop/cs/Algorithms/Problem_sets/ThTwoLab/BinaryTree.cpp
+BinaryTree.h
+C:/Users/kastu/Desktop/cs/Algorithms/Problem_sets/ThTwoLab/BinaryTree.h
+
+C:/Users/kastu/Desktop/cs/Algorithms/Problem_sets/ThTwoLab/BinaryTree.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+
+C:/Users/kastu/Desktop/cs/Algorithms/Problem_sets/ThTwoLab/btree.cpp
+btree.h
+C:/Users/kastu/Desktop/cs/Algorithms/Problem_sets/ThTwoLab/btree.h
+
+C:/Users/kastu/Desktop/cs/Algorithms/Problem_sets/ThTwoLab/btree.h
+
+C:/Users/kastu/Desktop/cs/Algorithms/Problem_sets/ThTwoLab/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+string
+-
+
